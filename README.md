@@ -50,10 +50,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NhamhybTVseXk5a2s2dWswcjNpeGFoa29nYTFkZjRiajB4YXVrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/jitchowdhury/jitchowdhury/output/snake.svg" alt="Snake animation" />
 
 ###
