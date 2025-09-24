@@ -56,6 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jitchowdhury/jitchowdhury/output/snake.svg" alt="Snake animation" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jitchowdhury/jitchowdhury/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
